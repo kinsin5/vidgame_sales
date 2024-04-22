@@ -1,6 +1,8 @@
 # vidgame_sales
 First data project(EDA) using excel, power pivot, and simple relational database
+
 **CHART 1 GLOBAL SALES** https://github.com/kinsin5/vidgame_sales/issues/1#issue-2255932303
+
 SOME ISSUES BUG FIXING ETC.
 1)  Power Querry transforming decimal numbers from 0.0 format to 0,0, because of polish excel
 2)  IDENTIFYING **2 PROBLEMS** **1:** YEARS 2017 and 2020 ARE MISSING A LOT OF VALUES AND 2016 HAVE ONLY A THIRD OF IT'S DATA// **2:** THERE IS N/A ERROR IN YEARS
