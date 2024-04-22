@@ -5,6 +5,9 @@ First data project(EDA) using excel, power pivot, and simple relational database
 
 **CHART 2 GLOBAL SALES BY COUNTRY TREE** https://github.com/kinsin5/vidgame_sales/issues/2#issue-2256101746
 
+**TABLE 1 GAME RANK BY GENERES** https://github.com/kinsin5/vidgame_sales/issues/3#issue-2256112914
+
+
 SOME ISSUES BUG FIXING ETC.
 1)  Power Querry transforming decimal numbers from 0.0 format to 0,0, because of polish excel
 2)  IDENTIFYING **2 PROBLEMS** **1:** YEARS 2017 and 2020 ARE MISSING A LOT OF VALUES AND 2016 HAVE ONLY A THIRD OF IT'S DATA// **2:** THERE IS N/A ERROR IN YEARS
