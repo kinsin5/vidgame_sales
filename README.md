@@ -7,6 +7,8 @@ First data project(EDA) using excel, power pivot, and simple relational database
 
 **TABLE 1 GAME RANK BY GENERES** https://github.com/kinsin5/vidgame_sales/issues/3#issue-2256112914
 
+**CHART 3, TABLE 2**  https://github.com/kinsin5/vidgame_sales/issues/4#issue-2256322296
+
 
 SOME ISSUES BUG FIXING ETC.
 1)  Power Querry transforming decimal numbers from 0.0 format to 0,0, because of polish excel
