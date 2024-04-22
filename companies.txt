@@ -1,0 +1,836 @@
+Company,Country
+Nintendo,Japan
+Microsoft Game Studios,USA
+Take-Two Interactive,USA
+Sony Computer Entertainment,Japan
+Activision,USA
+Ubisoft,France
+Bethesda Softworks,USA
+Electronic Arts,USA
+Sega,Japan
+SquareSoft,Japan
+Atari,USA
+505 Games,Italy
+Capcom,Japan
+GT Interactive,USA
+Konami Digital Entertainment,Japan
+Sony Computer Entertainment Europe,United Kingdom
+Square Enix,Japan
+LucasArts,USA
+Virgin Interactive,USA
+Warner Bros. Interactive Entertainment,USA
+Universal Interactive,USA
+Eidos Interactive,United Kingdom
+RedOctane,USA
+Vivendi Games,France
+Enix Corporation,Japan
+Namco Bandai Games,Japan
+Palcom,Japan
+Hasbro Interactive,USA
+THQ,USA
+Fox Interactive,USA
+Acclaim Entertainment,USA
+MTV Games,USA
+Disney Interactive Studios,USA
+Majesco Entertainment,USA
+Codemasters,United Kingdom
+Red Orb,USA
+Level 5,Japan
+Arena Entertainment,Japan
+Midway Games,USA
+JVC,Japan
+Deep Silver,Austria
+989 Studios,USA
+NCSoft,South Korea
+UEP Systems,USA
+Parker Bros.,USA
+Maxis,USA
+Imagic,USA
+Tecmo Koei,Japan
+Valve Software,USA
+ASCII Entertainment,Japan
+Mindscape,USA
+Infogrames,France
+Unknown,N/A
+Square,Japan
+Valve,USA
+Activision Value,USA
+Banpresto,Japan
+D3Publisher,USA
+Oxygen Interactive,United Kingdom
+Red Storm Entertainment,USA
+Video System,Japan
+Hello Games,United Kingdom
+Global Star,USA
+Gotham Games,USA
+Westwood Studios,USA
+GungHo,Japan
+Crave Entertainment,USA
+Hudson Soft,Japan
+Coleco,USA
+Rising Star Games,United Kingdom
+Atlus,Japan
+TDK Mediactive,USA
+ASC Games,USA
+Zoo Games,USA
+Accolade,USA
+Sony Online Entertainment,USA
+3DO,USA
+RTL,Germany
+Natsume,Japan
+Focus Home Interactive,France
+Alchemist,Japan
+Black Label Games,USA
+SouthPeak Games,USA
+Mastertronic,United Kingdom
+Ocean,France
+Zoo Digital Publishing,United Kingdom
+Psygnosis,United Kingdom
+City Interactive,Poland
+Empire Interactive,United Kingdom
+Success,Japan
+Compile,Japan
+Russel,Japan
+Taito,Japan
+Agetec,USA
+GSP,United Kingdom
+Microprose,USA
+Play It,United Kingdom
+Slightly Mad Studios,United Kingdom
+Tomy Corporation,Japan
+Sammy Corporation,Japan
+Koch Media,Germany
+Game Factory,United Kingdom
+Titus,France
+Marvelous Entertainment,Japan
+Genki,Japan
+Mojang,Sweden
+Pinnacle,Japan
+CTO SpA,Italy
+TalonSoft,USA
+Crystal Dynamics,USA
+SCi,United Kingdom
+Quelle,Germany
+mixi, Inc,Japan
+Rage Software,United Kingdom
+Ubisoft Annecy,France
+Scholastic Inc.,USA
+Interplay,USA
+Mystique,USA
+ChunSoft,Japan
+Square EA,USA
+20th Century Fox Video Games,USA
+Avanquest Software,France
+Hudson Entertainment,Japan
+Nordic Games,Austria
+Men-A-Vision,USA
+Nobilis,France
+Big Ben Interactive,France
+Touchstone,USA
+Spike,Japan
+Jester Interactive,United Kingdom
+Nippon Ichi Software,Japan
+LEGO Media,United Kingdom
+Quest,USA
+Illusion Softworks,Czech Republic
+Tigervision,USA
+Funbox Media,United Kingdom
+Rocket Company,Japan
+Metro 3D,USA
+Mattel Interactive,USA
+IE Institute,Japan
+Rondomedia,Germany
+Sony Computer Entertainment America,USA
+Universal Gamex,Japan
+Ghostlight,United Kingdom
+Wizard Video Games,USA
+BMG Interactive Entertainment,USA
+PQube,United Kingdom
+Trion Worlds,USA
+Laguna,Japan
+Ignition Entertainment,USA
+Takara,Japan
+Kadokawa Shoten,Japan
+Destineer,USA
+Enterbrain,Japan
+Xseed Games,USA
+Imagineer,Japan
+System 3 Arcade Software,United Kingdom
+CPG Products,USA
+Aruze Corp,Japan
+Gamebridge,USA
+Midas Interactive Entertainment,United Kingdom
+Jaleco,Japan
+Answer Software,USA
+XS Games,USA
+Activision Blizzard,USA
+Pack In Soft,Japan
+Rebellion,United Kingdom
+Xplosiv,United Kingdom
+Ultravision,USA
+GameMill Entertainment,USA
+Wanadoo,France
+NovaLogic,USA
+Telltale Games,USA
+Epoch,Japan
+BAM! Entertainment,USA
+Knowledge Adventure,USA
+Mastiff,USA
+Tetris Online,USA
+Harmonix Music Systems,USA
+ESP,Japan
+TYO,Japan
+Telegames,United Kingdom
+Mud Duck Productions,USA
+Screenlife,USA
+Pioneer LDC,Japan
+Magical Company,Japan
+Mentor Interactive,Italy
+Kemco,Japan
+Human Entertainment,Japan
+Avanquest,France
+Data Age,USA
+Electronic Arts Victor,Japan
+Black Bean Games,Italy
+Jack of All Games,USA
+989 Sports,USA
+Takara Tomy,Japan
+Media Rings,Japan
+Elf,Japan
+Kalypso Media,Germany
+Starfish,Japan
+Zushi Games,United Kingdom
+Jorudan,Japan
+Destination Software, Inc,USA
+New,N/A
+Brash Entertainment,USA
+ITT Family Games,USA
+PopCap Games,USA
+Home Entertainment Suppliers,USA
+Ackkstudios,USA
+Starpath Corp.,USA
+P2 Games,United Kingdom
+BPS,Japan
+Gathering of Developers,USA
+NewKidCo,USA
+Storm City Games,USA
+CokeM Interactive,USA
+CBS Electronics,USA
+Magix,Germany
+Marvelous Interactive,Japan
+Nihon Falcom Corporation,Japan
+Wargaming.net,Belarus
+Angel Studios,USA
+Arc System Works,Japan
+Playmates,USA
+SNK Playmore,Japan
+Hamster Corporation,Japan
+From Software,Japan
+Nippon Columbia,Japan
+Nichibutsu,Japan
+Little Orbit,USA
+Conspiracy Entertainment,USA
+DTP Entertainment,Germany
+Hect,Japan
+Mumbo Jumbo,USA
+Pacific Century Cyber Works,USA
+Indie Games,N/A
+Liquid Games,United Kingdom
+NEC,Japan
+Axela,Japan
+ArtDink,Japan
+Sunsoft,Japan
+Gust,Japan
+SNK,Japan
+NEC Interchannel,Japan
+FuRyu,Japan
+Xing Entertainment,Japan
+ValuSoft,USA
+Victor Interactive,Japan
+Detn8 Games,United Kingdom
+American Softworks,USA
+Nordcurrent,Lithuania
+Bomb,Japan
+Falcom Corporation,Japan
+AQ Interactive,Japan
+CCP,Iceland
+Milestone S.r.l.,Italy
+Sears,USA
+JoWood Productions,Austria
+Seta Corporation,Japan
+On Demand,USA
+NCS,Japan
+Aspyr,USA
+Gremlin Interactive Ltd,United Kingdom
+Agatsuma Entertainment,Japan
+Compile Heart,Japan
+Culture Brain,Japan
+Mad Catz,USA
+Shogakukan,Japan
+Merscom LLC,USA
+Rebellion Developments,United Kingdom
+Nippon Telenet,Japan
+TDK Core,Japan
+bitComposer Games,Germany
+Foreign Media Games,Germany
+Astragon,Germany
+SSI,USA
+Kadokawa Games,Japan
+Idea Factory,Japan
+Performance Designed Products,USA
+Asylum Entertainment,USA
+Core Design Ltd.,United Kingdom
+PlayV,Japan
+UFO Interactive,USA
+Idea Factory International,Japan
+Playlogic Game Factory,Netherlands
+Essential Games,USA
+Adeline Software,France
+Funcom,Norway
+Panther Software,Japan
+Blast! Entertainment Ltd,United Kingdom
+Game Life,USA
+DSI Games,USA
+Avalon Interactive,USA
+Popcorn Arcade,United Kingdom
+Neko Entertainment,France
+Vir2L Studios,USA
+Aques,Japan
+Syscom,Japan
+White Park Bay Software,United Kingdom
+System 3,United Kingdom
+Vatical Entertainment,USA
+Daedalic,Germany
+EA Games,USA
+Media Factory,Japan
+Vic Tokai,Japan
+The Adventure Company,Canada
+Game Arts,Japan
+Broccoli,Japan
+Acquire,Japan
+General Entertainment,Japan
+Excalibur Publishing,United Kingdom
+Imadio,United Kingdom
+Swing! Entertainment,Germany
+Sony Music Entertainment,USA
+Aqua Plus,Japan
+Paradox Interactive,Sweden
+Hip Interactive,Canada
+DreamCatcher Interactive,Canada
+Tripwire Interactive,USA
+Sting,Japan
+Yacht Club Games,USA
+SCS Software,Czech Republic
+Bigben Interactive,France
+Havas Interactive,USA
+Slitherine Software,United Kingdom
+Graffiti,Japan
+Funsta,United Kingdom
+Telstar,Japan
+U.S. Gold,United Kingdom
+DreamWorks Interactive,USA
+Data Design Interactive,United Kingdom
+MTO,Japan
+DHM Interactive,United Kingdom
+FunSoft,United Kingdom
+SPS,Japan
+Bohemia Interactive,Czech Republic
+Reef Entertainment,United Kingdom
+Tru Blu Entertainment,Australia
+Moss,Japan
+T&E Soft,Japan
+O-Games,United Kingdom
+Aksys Games,USA
+NDA Productions,Japan
+Data East,Japan
+Time Warner Interactive,USA
+Gainax Network Systems,Japan
+Daito,Japan
+O3 Entertainment,USA
+Gameloft,France
+Xicat Interactive,Spain
+Simon & Schuster Interactive,USA
+Valcon Games,USA
+PopTop Software,USA
+TOHO,Japan
+HMH Interactive,United Kingdom
+5pb,Japan
+Cave,Japan
+CDV Software Entertainment,Germany
+Microids,France
+PM Studios,USA
+Paon,Japan
+Micro Cabin,Japan
+GameTek,USA
+Benesse,Japan
+Type-Moon,Japan
+Enjoy Gaming ltd.,United Kingdom
+Asmik Corp,Japan
+Interplay Productions,USA
+Asmik Ace Entertainment,Japan
+inXile Entertainment,USA
+Image Epoch,Japan
+Phantom EFX,USA
+Evolved Games,USA
+responDESIGN,USA
+Culture Publishers,Japan
+Griffin International,United Kingdom
+Hackberry,Japan
+Hearty Robin,Japan
+Nippon Amuse,Japan
+Origin Systems,USA
+Seventh Chord,Japan
+Mitsui,Japan
+Milestone,Italy
+Abylight,Spain
+Flight-Plan,Japan
+Glams,Japan
+Locus,Japan
+Warp,Japan
+Daedalic Entertainment,Germany
+Alternative Software,United Kingdom
+Myelin Media,USA
+Mercury Games,USA
+Irem Software Engineering,Japan
+Sunrise Interactive,Japan
+Elite,United Kingdom
+Evolution Games,Japan
+Tivola,Germany
+Global A Entertainment,Japan
+Edia,Japan
+Athena,Japan
+Aria,Japan
+Gamecock,USA
+Tommo,USA
+Altron,Japan
+Happinet,Japan
+iWin,USA
+Media Works,Japan
+Fortyfive,Japan
+Revolution Software,United Kingdom
+Imax,United Kingdom
+Crimson Cow,Germany
+10TACLE Studios,Germany
+Groove Games,Canada
+Pack-In-Video,Japan
+Insomniac Games,USA
+Ascaron Entertainment GmbH,Germany
+Asgard,Japan
+Ecole,Japan
+Yumedia,Japan
+Phenomedia,Germany
+HAL Laboratory,Japan
+Grand Prix Games,Japan
+DigiCube,Japan
+Creative Core,Japan
+Kaga Create,Japan
+WayForward Technologies,USA
+LSP Games,Japan
+ASCII Media Works,Japan
+Coconuts Japan,Japan
+Arika,Japan
+Ertain,Japan
+Marvel Entertainment,USA
+Prototype,Japan
+TopWare Interactive,Germany
+Phantagram,South Korea
+1C Company,Russia
+The Learning Company,USA
+TechnoSoft,Japan
+Vap,Japan
+Misawa,Japan
+Tradewest,USA
+Team17 Software,United Kingdom
+Yeti,Japan
+Pow,Japan
+Navarre Corp,USA
+MediaQuest,Japan
+Max Five,Japan
+Comfort,Japan
+Monte Christo Multimedia,France
+Pony Canyon,Japan
+Riverhillsoft,Japan
+Summitsoft,United Kingdom
+Milestone S.r.l,Italy
+Playmore,Japan
+MLB.com,USA
+Kool Kizz,Japan
+Flashpoint Games,United Kingdom
+49Games,Germany
+Legacy Interactive,USA
+Alawar Entertainment,Russia
+CyberFront,Japan
+Cloud Imperium Games Corporation,USA
+Societa,Japan
+Virtual Play Games,Japan
+Interchannel,Japan
+Sonnet,Japan
+Experience Inc.,Japan
+Zenrin,Japan
+Iceberg Interactive,Netherlands
+Ivolgamus,Lithuania
+2D Boy,USA
+MC2 Entertainment,France
+Kando Games,Japan
+Just Flight,United Kingdom
+Office Create,Japan
+Mamba Games,United Kingdom
+Fields,Japan
+Princess Soft,Japan
+Maximum Family Games,USA
+Berkeley,USA
+Fuji,Japan
+Dusenberry Martin Racing,USA
+imageepoch Inc.,Japan
+Big Fish Games,USA
+Her Interactive,USA
+Kamui,Japan
+ASK,Japan
+Headup Games,Germany
+KSS,Japan
+Cygames,Japan
+KID,Japan
+Quinrose,Japan
+Sunflowers,Japan
+dramatic create,Japan
+TGL,Japan
+Encore,USA
+Extreme Entertainment Group,USA
+Intergrow,Japan
+G.Rev,Japan
+Sweets,Japan
+Kokopeli Digital Studios,Japan
+Number None,USA
+Nexon,South Korea
+id Software,USA
+Here's the list formatted as requested:
+
+"Company","Country"
+Falcom Corporation,Japan
+AQ Interactive,Japan
+CCP,Iceland
+Milestone S.r.l.,Italy
+Sears,USA
+JoWood Productions,Austria
+Seta Corporation,Japan
+On Demand,USA
+NCS,Japan
+Aspyr,USA
+Gremlin Interactive Ltd,United Kingdom
+Agatsuma Entertainment,Japan
+Compile Heart,Japan
+Culture Brain,Japan
+Mad Catz,USA
+Shogakukan,Japan
+Merscom LLC,USA
+Rebellion Developments,United Kingdom
+Nippon Telenet,Japan
+TDK Core,Japan
+bitComposer Games,Germany
+Foreign Media Games,Germany
+Astragon,Germany
+SSI,USA
+Kadokawa Games,Japan
+Idea Factory,Japan
+Performance Designed Products,USA
+Asylum Entertainment,USA
+Core Design Ltd.,United Kingdom
+PlayV,Japan
+UFO Interactive,USA
+Idea Factory International,Japan
+Playlogic Game Factory,Netherlands
+Essential Games,USA
+Adeline Software,France
+Funcom,Norway
+Panther Software,Japan
+Blast! Entertainment Ltd,United Kingdom
+Game Life,USA
+DSI Games,USA
+Avalon Interactive,USA
+Popcorn Arcade,United Kingdom
+Neko Entertainment,France
+Vir2L Studios,USA
+Aques,Japan
+Syscom,Japan
+White Park Bay Software,United Kingdom
+System 3,United Kingdom
+Vatical Entertainment,USA
+Daedalic,Germany
+EA Games,USA
+Media Factory,Japan
+Vic Tokai,Japan
+The Adventure Company,Canada
+Game Arts,Japan
+Broccoli,Japan
+Acquire,Japan
+General Entertainment,Japan
+Excalibur Publishing,United Kingdom
+Imadio,United Kingdom
+Swing! Entertainment,Germany
+Sony Music Entertainment,USA
+Aqua Plus,Japan
+Paradox Interactive,Sweden
+Hip Interactive,Canada
+DreamCatcher Interactive,Canada
+Tripwire Interactive,USA
+Sting,Japan
+Yacht Club Games,USA
+SCS Software,Czech Republic
+Bigben Interactive,France
+Havas Interactive,USA
+Slitherine Software,United Kingdom
+Graffiti,Japan
+Funsta,United Kingdom
+Telstar,Japan
+U.S. Gold,United Kingdom
+DreamWorks Interactive,USA
+Data Design Interactive,United Kingdom
+MTO,Japan
+DHM Interactive,United Kingdom
+FunSoft,United Kingdom
+SPS,Japan
+Bohemia Interactive,Czech Republic
+Reef Entertainment,United Kingdom
+Tru Blu Entertainment,Australia
+Moss,Japan
+T&E Soft,Japan
+O-Games,United Kingdom
+Aksys Games,USA
+NDA Productions,Japan
+Data East,Japan
+Time Warner Interactive,USA
+Gainax Network Systems,Japan
+Daito,Japan
+O3 Entertainment,USA
+Gameloft,France
+Xicat Interactive,Spain
+Simon & Schuster Interactive,USA
+Valcon Games,USA
+PopTop Software,USA
+TOHO,Japan
+HMH Interactive,United Kingdom
+5pb,Japan
+Cave,Japan
+CDV Software Entertainment,Germany
+Microids,France
+PM Studios,USA
+Paon,Japan
+Micro Cabin,Japan
+GameTek,USA
+Benesse,Japan
+Type-Moon,Japan
+Enjoy Gaming ltd.,United Kingdom
+Asmik Corp,Japan
+Interplay Productions,USA
+Asmik Ace Entertainment,Japan
+inXile Entertainment,USA
+Image Epoch,Japan
+Phantom EFX,USA
+Evolved Games,USA
+responDESIGN,USA
+Culture Publishers,Japan
+Griffin International,United Kingdom
+Hackberry,Japan
+Hearty Robin,Japan
+Nippon Amuse,Japan
+Origin Systems,USA
+Seventh Chord,Japan
+Mitsui,Japan
+Milestone,Italy
+Abylight,Spain
+Flight-Plan,Japan
+Glams,Japan
+Locus,Japan
+Warp,Japan
+Daedalic Entertainment,Germany
+Alternative Software,United Kingdom
+Myelin Media,USA
+Mercury Games,USA
+Irem Software Engineering,Japan
+Sunrise Interactive,Japan
+Elite,United Kingdom
+Evolution Games,Japan
+Tivola,Germany
+Global A Entertainment,Japan
+Edia,Japan
+Athena,Japan
+Aria,Japan
+Gamecock,USA
+Tommo,USA
+Altron,Japan
+Happinet,Japan
+iWin,USA
+Media Works,Japan
+Fortyfive,Japan
+Revolution Software,United Kingdom
+Imax,United Kingdom
+Crimson Cow,Germany
+10TACLE Studios,Germany
+Groove Games,Canada
+Pack-In-Video,Japan
+Insomniac Games,USA
+Ascaron Entertainment GmbH,Germany
+Asgard,Japan
+Ecole,Japan
+Yumedia,Japan
+Phenomedia,Germany
+HAL Laboratory,Japan
+Grand Prix Games,Japan
+DigiCube,Japan
+Creative Core,Japan
+Kaga Create,Japan
+WayForward Technologies,USA
+LSP Games,Japan
+ASCII Media Works,Japan
+Coconuts Japan,Japan
+Arika,Japan
+Ertain,Japan
+Marvel Entertainment,USA
+Prototype,Japan
+TopWare Interactive,Germany
+Phantagram,South Korea
+1C Company,Russia
+The Learning Company,USA
+TechnoSoft,Japan
+Vap,Japan
+Misawa,Japan
+Tradewest,USA
+Team17 Software,United Kingdom
+Yeti,Japan
+Pow,Japan
+Navarre Corp,USA
+MediaQuest,Japan
+Max Five,Japan
+Comfort,Japan
+Monte Christo Multimedia,France
+Pony Canyon,Japan
+Riverhillsoft,Japan
+Summitsoft,United Kingdom
+Milestone S.r.l,Italy
+Playmore,Japan
+MLB.com,USA
+Kool Kizz,Japan
+Flashpoint Games,United Kingdom
+49Games,Germany
+Legacy Interactive,USA
+Alawar Entertainment,Russia
+CyberFront,Japan
+Cloud Imperium Games Corporation,USA
+Societa,Japan
+Virtual Play Games,Japan
+Interchannel,Japan
+Sonnet,Japan
+Experience Inc.,Japan
+Zenrin,Japan
+Iceberg Interactive,Netherlands
+Ivolgamus,Lithuania
+2D Boy,USA
+MC2 Entertainment,France
+Kando Games,Japan
+Just Flight,United Kingdom
+Office Create,Japan
+Mamba Games,United Kingdom
+Fields,Japan
+Princess Soft,Japan
+Maximum Family Games,USA
+Berkeley,USA
+Fuji,Japan
+Dusenberry Martin Racing,USA
+imageepoch Inc.,Japan
+Big Fish Games,USA
+Her Interactive,USA
+Kamui,Japan
+ASK,Japan
+Headup Games,Germany
+KSS,Japan
+Cygames,Japan
+KID,Japan
+Quinrose,Japan
+Sunflowers,Japan
+dramatic create,Japan
+TGL,Japan
+Encore,USA
+Extreme Entertainment Group,USA
+Intergrow,Japan
+G.Rev,Japan
+Sweets,Japan
+Kokopeli Digital Studios,Japan
+Number None,USA
+Nexon,South Korea
+id Software,USA
+Bushi
+
+Road,Japan
+Tryfirst,South Korea
+Strategy First,Canada
+7G//AMES,Japan
+GN Software,Japan
+Yuke's,Japan
+Easy Interactive,Netherlands
+Licensed 4U,Japan
+FuRyu Corporation,Japan
+Lexicon Entertainment,United Kingdom
+Paon Corporation,Japan
+Kids Station,Japan
+GOA,France
+Graphsim Entertainment,Japan
+King Records,Japan
+Introversion Software,United Kingdom
+Minato Station,Japan
+Devolver Digital,USA
+Blue Byte,Germany
+Gaga,Japan
+Yamasa Entertainment,Japan
+Plenty,Japan
+Views,Japan
+fonfun,Taiwan
+NetRevo,Japan
+Codemasters Online,United Kingdom
+Quintet,Japan
+Phoenix Games,United Kingdom
+Dorart,Japan
+Marvelous Games,Japan
+Focus Multimedia,United Kingdom
+Imageworks,Japan
+Karin Entertainment,Japan
+Aerosoft,Germany
+Technos Japan Corporation,Japan
+Gakken,Japan
+Mirai Shounen,Japan
+Datam Polystar,Japan
+Saurus,Japan
+HuneX,Japan
+Revolution (Japan),Japan
+Giza10,Japan
+Visco,Japan
+Alvion,Japan
+Mycom,Japan
+Giga,Japan
+Warashi,Japan
+System Soft,Japan
+Sold Out,United Kingdom
+Lighthouse Interactive,Canada
+Masque Publishing,USA
+RED Entertainment,Japan
+Michaelsoft,USA
+Media Entertainment,Japan
+New World Computing,USA
+Genterprise,Japan
+Interworks Unlimited, Inc.,USA
+Boost On,Japan
+Stainless Games,United Kingdom
+EON Digital Entertainment,USA
+Epic Games,USA
+Naxat Soft,Japan
+Ascaron Entertainment,Germany
+Piacci,Japan
+Nitroplus,Japan
+Paradox Development,Sweden
+Otomate,Japan
+Ongakukan,Japan
+Commseed,Japan
+Inti Creates,Japan
+Takuyo,Japan
+Interchannel-Holon,Japan
+Rain Games,Norway
+UIG Entertainment,Germany
