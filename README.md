@@ -1,5 +1,5 @@
 # vidgame_sales
-First data project(EDA) using excel, power pivot, and simple relational database
+****First data project(EDA) using excel, power pivot, and simple relational database****
 
 **CHART 1 GLOBAL SALES** https://github.com/kinsin5/vidgame_sales/issues/1#issue-2255932303
 
@@ -9,6 +9,7 @@ First data project(EDA) using excel, power pivot, and simple relational database
 
 **CHART 3, TABLE 2**  https://github.com/kinsin5/vidgame_sales/issues/4#issue-2256322296
 
+**CHART 4**  https://github.com/kinsin5/vidgame_sales/issues/5#issue-2256350096
 
 SOME ISSUES BUG FIXING ETC.
 1)  Power Querry transforming decimal numbers from 0.0 format to 0,0, because of polish excel
