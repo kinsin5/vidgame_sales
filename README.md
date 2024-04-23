@@ -6,6 +6,7 @@ Raw data is in vgsales.csv from https://www.kaggle.com/datasets/gregorut/videoga
 additional data created by me in companies.txt and in excel sheet 'plaforms'
 
 Main focus of this project is to present in simple charts and tables, diffrent statistics about video game sales, varrying from year, publisher, genere etc.
+Only for showcasing proficiency in excel and simple data manipulation, analysis and visualization
 
 STEPS TAKEN)
 1)  taking unique values of Platform tab from DATA, googling full names and assinging them to company, creating table: platforms - relation with DATA(one-to-many)
