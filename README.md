@@ -24,6 +24,8 @@ Here are the charts //I WILL CREATE DASHBOARD IN FUTURE OR MOVE TO NEXT PROJECT
 
 **CHART 4**  https://github.com/kinsin5/vidgame_sales/issues/5#issue-2256350096
 
+**CHART 5**  https://github.com/kinsin5/vidgame_sales/issues/7#issue-2258105698
+
 
 SOME ISSUES/BUG FIXING 
 1)  Power Querry transforming decimal numbers from 0.0 format to 0,0, because of polish excel
